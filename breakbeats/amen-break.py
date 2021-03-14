@@ -1,5 +1,6 @@
 # Classic breakbeat from Amen Brother by The Winstons (1969)
 # https://youtu.be/GxZuq57_bYM
+# Transcription by laelume
 
 Clock.bpm=102.6
 
